@@ -35,7 +35,7 @@ Este projeto consiste em uma página da web que exibe informações sobre cinco 
 ## Projeto 
 
 ![imagem do site](./assets/img/siteFinal1.png)
-![imagem do site](./assets/img/siteFinal2.png)
+![imagem do site](./assets/img/siteFInal2.png)
 
 ## Links
 
