@@ -80,6 +80,7 @@
 
  .botao {
     cursor: pointer;
+    background: #000000;
     border-radius: 50%;
  }
 
